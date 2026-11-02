@@ -1,5 +1,5 @@
 Application Name: Employee Management Portal
-Application Status: Running
+Application Status: Failed
 Application Version: 1.1.0
 Environment: Development
 Feature: Employee Reports
