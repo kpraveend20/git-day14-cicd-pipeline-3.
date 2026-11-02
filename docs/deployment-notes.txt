@@ -1,0 +1,10 @@
+Employee Management Portal
+
+Deployment Environment: Development
+Deployment Status: Pending
+
+Pipeline:
+1. Validate application
+2. Run automated tests
+3. Build application package
+4. Upload build artifact
